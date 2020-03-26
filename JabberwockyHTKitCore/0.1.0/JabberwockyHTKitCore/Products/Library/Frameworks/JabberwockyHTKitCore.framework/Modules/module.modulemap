@@ -1,0 +1,11 @@
+framework module JabberwockyHTKitCore {
+  umbrella header "JabberwockyHTKitCore.h"
+
+  export *
+  module * { export * }
+}
+
+module JabberwockyHTKitCore.Swift {
+    header "JabberwockyHTKitCore-Swift.h"
+    requires objc
+}
