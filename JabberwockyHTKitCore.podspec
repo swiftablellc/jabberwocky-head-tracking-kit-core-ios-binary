@@ -1,14 +1,14 @@
 Pod::Spec.new do |s|
 
   s.name         = "JabberwockyHTKitCore"
-  s.version      = "0.1.0"
+  s.version      = "0.2.0"
   s.summary      = "Jabberwocky Head Tracking Kit Core for iOS."
 
   s.description  = <<-DESC
   Head Tracking Kit enabling touch free control of the iOS application
                    DESC
 
-  s.homepage     = "http://www.jabberwockyapp.com"
+  s.homepage     = "https://github.com/swiftablellc/jabberwocky-head-tracking-kit-core-ios-binary.git"
 
   s.license      = {
     :type => "Copyright",
