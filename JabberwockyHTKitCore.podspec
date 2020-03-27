@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "JabberwockyHTKitCore"
-  s.version      = "0.2.0"
+  s.version      = "0.3.0"
   s.summary      = "Jabberwocky Head Tracking Kit Core for iOS."
 
   s.description  = <<-DESC
@@ -25,6 +25,6 @@ See the License for the specific language governing permissions and limitations 
 
   s.author       = { "jonathan hoag" => "jon@swiftable.org", "aaron chavez" => "aaron@swiftable.org" }
   s.source       = { :git => "https://github.com/swiftablellc/jabberwocky-head-tracking-kit-core-ios-binary.git", :tag => s.version.to_s }
-  s.vendored_frameworks = "JabberwockyHTKitCore/Products/Library/Frameworks/JabberwockyHTKitCore.framework"
+  s.vendored_frameworks = "JabberwockyHTKitCore.framework"
   s.ios.deployment_target = "12.0"
 end
