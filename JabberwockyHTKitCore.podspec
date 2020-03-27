@@ -27,4 +27,5 @@ See the License for the specific language governing permissions and limitations 
   s.source       = { :git => "https://github.com/swiftablellc/jabberwocky-head-tracking-kit-core-ios-binary.git", :tag => s.version.to_s }
   s.vendored_frameworks = "JabberwockyHTKitCore.framework"
   s.ios.deployment_target = "12.0"
+  s.swift_version = "5.2"
 end
