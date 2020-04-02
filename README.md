@@ -6,39 +6,39 @@ Both `JabberwockyHTKit` and `JabberwockyHTKitCore` are available in the [Jabberw
 
 See [JabberwockyHTKit](https://github.com/swiftablellc/jabberwocky-head-tracking-kit-ios) for more information on installation, integration, examples, and tutorials.
 
-## What does JabberwockyHTKitCore do?
+## What Does JabberwockyHTKitCore Do?
 
 `JabberwockyHTKitCore` consists primarily of a `UIViewController` called `HTCameraViewController` that analyzes camera input and emits `NSNotification`s for cursor position updates and facial gesture triggers.
 
 Configuration and initialization of `HeadTrackingCore` can be found in [HeadTracking](https://github.com/swiftablellc/jabberwocky-head-tracking-kit-ios/blob/master/JabberwockyHTKit/Configuration/HeadTracking.swift) from `JabberwockyHTKit`. See `NSNotification` definitions in [JabberwockyHTKitCore-Swift.h](https://github.com/swiftablellc/jabberwocky-head-tracking-kit-core-ios-binary/blob/master/JabberwockyHTKitCore.framework/Headers/JabberwockyHTKitCore-Swift.h) for more information on what notifications are emitted from `HTCameraViewController`. You can see examples of these in use in `HTFeature` implementations in [JabberwockyHTKit](https://github.com/swiftablellc/jabberwocky-head-tracking-kit-ios).
 
 
-## CocoaPods installation
+## CocoaPods Installation
 
-Though it is unlikely that integration of `JabberwockyHTKitCore` is done without `JabberwockyHTKit` or a fork of `JabberwockyHTKit`, the `JabberwockyHTKitCore` framework can be installed via CocoaPods.
+1. Create  thefollowing `Podfile` and change `$YOUR_TARGET`:
 
-* The following `Podfile` can be created by changing `$YOUR_TARGET`:
+  ```shell script
+  source 'https://github.com/swiftablellc/jabberwocky-specs-repo.git'
+  source 'https://github.com/CocoaPods/Specs.git'
 
-```shell script
-source 'https://github.com/swiftablellc/jabberwocky-specs-repo.git'
-source 'https://github.com/CocoaPods/Specs.git'
+  use_frameworks!
+  platform :ios, '12.0'
 
-use_frameworks!
-platform :ios, '12.0'
+  target '$YOUR_TARGET' do
+    pod 'JabberwockyHTKitCore'
+  end
+  ```
 
-target '$YOUR_TARGET' do
-  pod 'JabberwockyHTKitCore'
-end
-```
+2. Install the Pod
 
-* Install the Pod
-
-```shell script
-pod install
-```
-
-
+  ```shell script
+  pod install
+  ```
 
 ## Trademarks
 
 Jabberwocky® is a registered trademark of Swiftable LLC.
+
+## License
+
+[Permissive Binary License](LICENSE-permissive-binary-license-1.0.txt)
