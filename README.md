@@ -15,7 +15,7 @@ Configuration and initialization of `HeadTrackingCore` can be found in [HeadTrac
 
 ## CocoaPods Installation
 
-1. Create  thefollowing `Podfile` and change `$YOUR_TARGET`:
+1. Create  the following `Podfile` and change `$YOUR_TARGET`:
 
   ```shell script
   source 'https://github.com/swiftablellc/jabberwocky-specs-repo.git'
