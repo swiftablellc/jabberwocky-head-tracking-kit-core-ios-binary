@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/JabberwockyHTKitCore-Swift.h</key>
 		<data>
-		1GimfUheeqhvgdNMqC+HowgDsiY=
+		HYs2HtkcJ71mFY7uZsj+hTIraJo=
 		</data>
 		<key>Headers/JabberwockyHTKitCore.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vSL8mmlLESwAOKQSM/Y/9I3WYw4=
+		OublNpPS1a9QHZS2l6oK2XE1cH0=
 		</data>
 		<key>LICENSE-permissive-binary-license-1.0.txt</key>
 		<data>
@@ -30,27 +30,27 @@
 		</data>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		iDWDsag8vNFP+nZMyyrfGfbcHa8=
+		S36zbOK2EXegKqvtf+9REOXFc0s=
 		</data>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		iDWDsag8vNFP+nZMyyrfGfbcHa8=
+		S36zbOK2EXegKqvtf+9REOXFc0s=
 		</data>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		5H6DJKG54jQV7zHG1ZTIKlCd0eY=
+		BGhT6536G9o8GhoBRAXE1qOx14k=
 		</data>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7p2q98xqiwV9rBqYmekypYeaGyU=
+		4hGGfrpauJGjj71XmHRglbwdQVU=
 		</data>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		5H6DJKG54jQV7zHG1ZTIKlCd0eY=
+		BGhT6536G9o8GhoBRAXE1qOx14k=
 		</data>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		7p2q98xqiwV9rBqYmekypYeaGyU=
+		4hGGfrpauJGjj71XmHRglbwdQVU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9QJ0jjWEVqrkbBgd1izHlkAmGRUddaKY7HGuexCrnVo=
+			zE/AXJMQ4NkdS/ilzaULY7shG5vF7F2mRBpwBTFUg/o=
 			</data>
 		</dict>
 		<key>Headers/JabberwockyHTKitCore.h</key>
@@ -98,42 +98,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CUDOtCbz+R9RuXqHyJhf4Yz2v1CSEumfyVluQVSA2Dw=
+			ErNrxuRdhS0sKdPo8KbKBtcC7ztoqslaqXavVLz6Yb8=
 			</data>
 		</dict>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CUDOtCbz+R9RuXqHyJhf4Yz2v1CSEumfyVluQVSA2Dw=
+			ErNrxuRdhS0sKdPo8KbKBtcC7ztoqslaqXavVLz6Yb8=
 			</data>
 		</dict>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M9yaau3nLRZw/5MOLfMcEJ0n1fSy7YwJ7eSInuTYLTU=
+			Jde/bBykDUqt9vnWQQv3/3Phv1enXPKvkm0fAkzHQ8g=
 			</data>
 		</dict>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			deZwwew4XPBDlXCtszgZNo46OrHel0z7SBuhZYFsOGc=
+			1Yq05AB87GzOqwgVs1TftWWYsSB+boFvr+zyb3Fw0LY=
 			</data>
 		</dict>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M9yaau3nLRZw/5MOLfMcEJ0n1fSy7YwJ7eSInuTYLTU=
+			Jde/bBykDUqt9vnWQQv3/3Phv1enXPKvkm0fAkzHQ8g=
 			</data>
 		</dict>
 		<key>Modules/JabberwockyHTKitCore.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			deZwwew4XPBDlXCtszgZNo46OrHel0z7SBuhZYFsOGc=
+			1Yq05AB87GzOqwgVs1TftWWYsSB+boFvr+zyb3Fw0LY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
