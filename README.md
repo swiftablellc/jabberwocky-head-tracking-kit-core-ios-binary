@@ -8,7 +8,7 @@
 
 ## About
 
-The Jabberwocky® Head Tracking Kit (`JabberwockyHTKit`) is an open-source iOS framework, developed by Swiftable LLC, that provides a touch-free interface for existing iOS applications. The `JabberwockyHTKitCore` is a proprietary framework used by `JabberwockyHTKit` to provide facial gesture analysis and cursor positioning based off of head movement. It is closed source, unlike `JabberwockyHTKit`, but is available under the [Permissive Binary License](https://www.mbed.com/en/licenses/permissive-binary-license/) which means it is free to distribute in its binary form, without modification, provided the conditions of the license are met.
+The Jabberwocky® Head Tracking Kit Core (`JabberwockyHTKitCore`) is an open-source iOS framework, developed by Swiftable LLC, to provide a touch-free interface for existing iOS applications. The `JabberwockyHTKitCore` is a proprietary framework used by `JabberwockyHTKit` to provide facial gesture analysis and cursor positioning based off of head movement. `JabberwockyHTKitCore` is closed source, unlike `JabberwockyHTKit`, but is available under the [Permissive Binary License](https://www.mbed.com/en/licenses/permissive-binary-license/) which means it is free to distribute in its binary form, without modification, provided the conditions of the license are met.
 
 Both `JabberwockyHTKit` and `JabberwockyHTKitCore` are available in the [Jabberwocky CocoaPods Spec Repo](https://github.com/swiftablellc/jabberwocky-specs-repo) and may be pushed to the master CocoaPods repo in the future.
 
