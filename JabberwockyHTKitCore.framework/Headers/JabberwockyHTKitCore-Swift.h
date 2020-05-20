@@ -241,7 +241,7 @@ SWIFT_CLASS("_TtC20JabberwockyHTKitCore22HTCameraViewController")
 @property (nonatomic, strong) ARSCNView * _Nonnull sceneView;
 @property (nonatomic, strong) ARFaceAnchor * _Nullable faceAnchor;
 - (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)decoder SWIFT_UNAVAILABLE;
-- (void)viewDidAppear:(BOOL)animated;
+- (void)viewWillAppear:(BOOL)animated;
 - (void)viewWillDisappear:(BOOL)animated;
 - (void)viewWillTransitionToSize:(CGSize)size withTransitionCoordinator:(id <UIViewControllerTransitionCoordinator> _Nonnull)coordinator;
 - (void)session:(ARSession * _Nonnull)session didFailWithError:(NSError * _Nonnull)error;
